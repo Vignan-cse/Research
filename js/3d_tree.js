@@ -1,4 +1,4 @@
-/* Author : Pranith Chowdary [191FA04269] */
+
 /* Implementation of the 3D Tree visualizer */
 
 /************ TREE METHODS *******************/
