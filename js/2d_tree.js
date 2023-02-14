@@ -1,4 +1,4 @@
-/* Author : Pranith Chowdary [191FA04269] */
+
 /*global document:true*/
 
 /* Code for the 2-dimensional tree visualizer */
